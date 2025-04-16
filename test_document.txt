@@ -1,0 +1,61 @@
+# FileMerger App Test Document
+
+This is a simple test document to verify the functionality of the FileMerger App.
+
+## Section 1: Introduction
+
+The FileMerger App is designed to convert various document formats to Markdown, with options for merging and chunking documents for AI consumption.
+
+### Features
+
+- Document Conversion
+- Bulk Processing
+- AI-Friendly Chunking
+- Metadata Enrichment
+
+## Section 2: Testing Information
+
+This document can be used to test:
+
+1. Text file conversion
+2. Markdown formatting preservation
+3. Chunking functionality
+4. Metadata addition
+
+### Test Cases
+
+| Test ID | Description | Expected Result |
+|---------|-------------|-----------------|
+| T1      | Basic conversion | Proper Markdown output |
+| T2      | Chunking | Document split into chunks |
+| T3      | Metadata | Metadata added to chunks |
+
+## Section 3: Lorem Ipsum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Subsection 3.1
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+### Subsection 3.2
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+
+## Section 4: Code Example
+
+Here's a sample Python code:
+
+```python
+def hello_world():
+    print("Hello, world!")
+    
+if __name__ == "__main__":
+    hello_world()
+```
+
+## Section 5: Conclusion
+
+This test document demonstrates various text elements that the FileMerger App should handle correctly when converting to Markdown and chunking content. 
